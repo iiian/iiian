@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 ### But I'm also pretty handy with
 [![My Skills](https://skillicons.dev/icons?i=python,angular,reactivex,ableton)](https://skillicons.dev)
 
-### In a past life, I knew
+### Skills that I haven't dusted off in quite sometime
 
-[![My Skills](https://skillicons.dev/icons?i=go,c,cpp,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,c,cpp,rust,pytorch,tensorflow)](https://skillicons.dev)
