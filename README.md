@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![My Research](https://skillicons.dev/icons?i=zig,rust,go,cpp,pytorch)](https://skillicons.dev)
 
 ### And at work, I'm building a distributed data-processing pipeline using
-[![My Skills](https://skillicons.dev/icons?i=bash,ts,nodejs,express,react,nestjs,prisma,postgres,firebase,gcp,git,github,githubactions,docker,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,ts,nestjs,nextjs,prisma,postgres,firebase,gcp,githubactions,docker,cs)](https://skillicons.dev)
 
 ### But I'm also pretty handy with
 [![My Skills](https://skillicons.dev/icons?i=python,angular,reactivex,ableton)](https://skillicons.dev)
