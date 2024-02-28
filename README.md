@@ -27,6 +27,3 @@ Here are some ideas to get you started:
 ### But I'm also pretty handy with
 [![My Skills](https://skillicons.dev/icons?i=python,angular,reactivex,ableton)](https://skillicons.dev)
 
-### Long dormant skills, just waiting for the right project
-
-[![My Skills](https://skillicons.dev/icons?i=,tensorflow)](https://skillicons.dev)
