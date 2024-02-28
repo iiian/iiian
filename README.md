@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![iiian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iiian&show_icons=true&hide_border=true&layout=compact)
 
 ### Right now, I'm really excited about
-[![My Research](https://skillicons.dev/icons?i=zig)](https://skillicons.dev)
+[![My Research](https://skillicons.dev/icons?i=zig,rust,go,cpp,pytorch)](https://skillicons.dev)
 
 ### And at work, I'm building a distributed data-processing pipeline using
 [![My Skills](https://skillicons.dev/icons?i=bash,ts,nodejs,express,react,nestjs,prisma,postgres,firebase,gcp,git,github,githubactions,docker,cs,dotnet)](https://skillicons.dev)
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ### Long dormant skills, just waiting for the right project
 
-[![My Skills](https://skillicons.dev/icons?i=go,c,cpp,rust,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,tensorflow)](https://skillicons.dev)
